@@ -4,7 +4,7 @@ An engine for generating unique explorable worlds.
 Specifications for the world:
 <ul>
   <li>The world must be a 2D grid, drawn using our tile engine.</li>
-  <li>The world must be pseudorandomly generated. Pseudorandomness is discussed in lab 5.</li>
+  <li>The world must be pseudorandomly generated.</li>
   <li>The generated world must include rooms and hallways, though it may also include outdoor spaces.</li>
   <li>At least some rooms should be rectangular, though you may support other shapes as well.</li>
   <li>Your game must be capable of generating hallways that include turns (or equivalently, straight hallways that intersect).</li>
