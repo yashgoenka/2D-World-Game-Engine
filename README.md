@@ -2,7 +2,7 @@
 
 <img src="https://github.com/yashgoenka/BYoG-Game-Engine/blob/master/2dworld.gif" height="240" width="480">
 
-An engine for generating unique explorable worlds.
+An engine for generating unique explorable 2D worlds using deterministic algorithms in Java with aditional features such as interactivity.
 
 Specifications for the world:
 <ul>
