@@ -1,4 +1,4 @@
-# BYoG-Game-Engine
+# 2D-World-Game-Engine
 
 <img src="https://github.com/yashgoenka/BYoG-Game-Engine/blob/master/2dworld.gif" height="240" width="480">
 
